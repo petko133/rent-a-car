@@ -116,4 +116,6 @@
   margin-right: 0.3rem;
   align-items: end;
   display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
