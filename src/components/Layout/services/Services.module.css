@@ -1,0 +1,134 @@
+@media screen and (min-width: 350px) {
+  .services-bg {
+    display: block;
+    min-height: auto;
+    width: 100%;
+    background-image: url(../../../assets/images/servicess.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+  }
+  .h1-3rem {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 2rem;
+  }
+  .hr-style {
+    border: 1.5px solid white;
+		margin-top: 1rem;
+    width: 40%;
+    margin-bottom: 2rem;
+  }
+	.services-header {
+		font-size: 2.5rem;
+		color: white;
+		margin-top: 0rem;
+	}
+}
+
+@media screen and (min-width: 550px) {
+  .services-bg {
+    display: block;
+    min-height: auto;
+    width: 100%;
+    background-image: url(../../../assets/images/servicess.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+  }
+  .h1-3rem {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 2rem;
+  }
+  .hr-style {
+    border: 1.5px solid white;
+		margin-top: 1rem;
+    width: 40%;
+    margin-bottom: 6rem;
+  }
+	.services-header {
+		font-size: 4rem;
+		color: white;
+		margin-top: 3rem;
+	}
+}
+
+@media screen and (min-width: 800px) {
+  .services-bg {
+    display: block;
+    min-height: auto;
+    width: 100%;
+    background-image: url(../../../assets/images/servicess.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+  }
+  .h1-3rem {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 3rem;
+  }
+  .hr-style {
+    border: 1.5px solid white;
+		margin-top: 1rem;
+    width: 40%;
+    margin-bottom: 8rem;
+  }
+	.services-header {
+		font-size: 4rem;
+		color: white;
+		margin-top: 6rem;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+  .services-bg {
+    display: block;
+    min-height: auto;
+    width: 100%;
+    background-image: url(../../../assets/images/servicess.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+  }
+  .h1-3rem {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 3rem;
+  }
+  .hr-style {
+    border: 1.5px solid white;
+		margin-top: 1rem;
+    width: 40%;
+    margin-bottom: 20rem;
+  }
+	.services-header {
+		font-size: 4rem;
+		color: white;
+		margin-top: 9rem;
+	}
+}
+
+.h3-3rem {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.items-aligning {
+  padding: 1rem;
+}
+
+.float-div-img {
+  height: 173px;
+}
+
+.prom-car {
+  width: 90%;
+}
+
+.flex-item {
+  text-align: center;
+  width: 300px;
+  height: 420px;
+  margin: 3rem;
+  border: 1px #ababab solid;
+  border-radius: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
